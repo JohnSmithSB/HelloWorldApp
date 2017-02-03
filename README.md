@@ -1,10 +1,7 @@
 # HelloWorldApp
 Just a simple repo to play with SmartBear Collaborator integration.
 
-To set up a repository webhook on GitHub, head over to the Settings page of your repository, and click on Webhooks & services. After that, click on Add webhook.
-
-Alternatively, you can choose to build and manage a webhook through the Webhooks API.
-
-Webhooks require a few configuration options before you can make use of them. We'll go through each of these settings below.
-
-Further changes during the review. Even more.
+In order to enable integration between GitHub and Collaborator, you need to:
+1. Create GitHub Configuration and Enable the Integration on Collaborator server
+2. Create Webhook on GitHub server (Not required for configurations created via Easy Add Repository wizard.)
+3. Link the owner of GitHub repository with some of Collaborator users
