@@ -1,4 +1,0 @@
-[submodule "testrepoforcollaborator"]
-	path = testrepoforcollaborator
-	url = https://bitbucket.org/JohnSmithSB/testrepoforcollaborator
-	branch = master
