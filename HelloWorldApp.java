@@ -5,8 +5,9 @@ class HelloWorldApp {
 }
 // Some more comment
 // Some changes for testing commit history rewriting
-// Further changes in branch ertert
+// Further changes in branch ertert Modify one line
 //wertewrtert
+// Add one line
 
 Collaborator can't correctly proceed commits reordering in pull request.
 *Steps:*
