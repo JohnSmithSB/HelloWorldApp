@@ -4,7 +4,7 @@ class HelloWorldApp {
     }
 }
 // Some more comment Yet anothe change from Feature N
-// Some changes for testing commit history rewriting
+// Some changes for testing commit history rewriting A change from Feature N afrter parch merge
 // Further changes in branch ertert Modify one line
 //wertewrtert
 // Add one line
